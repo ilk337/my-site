@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    align-items: center;
     background-color: black;
     font-family: 'Courier', monospace;
     color: antiquewhite;
@@ -21,7 +23,7 @@ nav a:hover {
 }
 
 button {
-    background-color: #007BFF;
+    background-color: rgba(41, 74, 189, 0.71);
     color: powderblue;
     padding: 20px 20px;
     border: solid 5px;
