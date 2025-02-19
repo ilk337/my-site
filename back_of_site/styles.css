@@ -53,5 +53,5 @@ p {
 .horizontal {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 150px;
 }
